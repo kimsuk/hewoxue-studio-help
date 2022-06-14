@@ -1,9 +1,9 @@
 * 入门
 
   * [快速开始](zh-cn/quickstart.md)
-  * [名词定义](zh-cn/more-pages.md)
-  * [支持的学习类型](zh-cn/custom-navbar.md)
-  * [在线服务及公众号](zh-cn/cover.md)
+  * [名词定义](zh-cn/definitions.md)
+  * [支持的学习类型](zh-cn/support-types.md)
+  * [在线服务](zh-cn/support.md)
 
 * 常见问题
 
@@ -14,7 +14,7 @@
   * [如何组织一次阅卷](zh-cn/plugins.md)
 
 * 操作指南
-  * [概述](zh-cn/deploy.md)
+  * [概述](zh-cn/dashboard.md)
   * [课程](zh-cn/deploy.md)
   * * [内容管理](zh-cn/deploy.md)
   * * [课程管理](zh-cn/deploy.md)

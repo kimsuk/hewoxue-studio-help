@@ -2,7 +2,7 @@
 
 您成功登录系统后，首先看到的页面就是 `概述`，这里展示了学员及学习数据，以及平台最新的消息和开放的课程。
 
-<img width="90%" bor src="https://tx-file.hewoxue.com/help/help2.png">
+<img width="90%" bor src="https://tx-file.hewoxue.com/help/help2.png?v3">
 
 #### 数据解释
 - 累计学员：当前平台累计的学员总数，实际等于微信登录的用户数。

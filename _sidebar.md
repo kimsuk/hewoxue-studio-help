@@ -15,10 +15,11 @@
 
 * 操作指南
   * [概述](zh-cn/dashboard.md)
-  * [课程](zh-cn/deploy.md)
-  * * [内容管理](zh-cn/deploy.md)
-  * * [课程管理](zh-cn/deploy.md)
-  * [素材](zh-cn/helpers.md)
+  * [课程管理](zh-cn/course-start.md)
+  * * [内容](zh-cn/content.md)
+  * * [课程](zh-cn/course.md)
+  * * [课程详情](zh-cn/course-detail.md)
+  * [资源管理](zh-cn/material.md)
   * [组织管理](zh-cn/vue.md)
   * [考试](zh-cn/cdn.md)
   * * [题库](zh-cn/deploy.md)

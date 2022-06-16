@@ -2,7 +2,7 @@
 
 请先访问登录页面 `/user/login` ，在右侧登录窗口中输入 `用户名和密码`
 
-<img width="90%" bor src="https://tx-file.hewoxue.com/help/help1.png?v=1">
+<img width="90%" bor src="https://tx-file.hewoxue.com/help/help1.png?v3">
 
 ## 登录系统
 

@@ -8,7 +8,7 @@
 * 常见问题
 
   * [如何创建一个课程](zh-cn/create-course.md)
-  * [如何创建一期培训](zh-cn/themes.md)
+  * [如何创建一期培训](zh-cn/create-classes.md)
   * [如何创建题库](zh-cn/themes.md)
   * [如何组织一场考试](zh-cn/plugins.md)
   * [如何组织一次阅卷](zh-cn/plugins.md)
